@@ -44,6 +44,7 @@
 ![Ekran Görüntüsü (198)](https://user-images.githubusercontent.com/79531642/191691317-ea255f3f-bb73-4077-b8ab-b9a91d020cd8.png)
 
 <hr>
-Projenin tüm isterleri yerine getirilememiştir. Authorization ve Email servisi eksiktir.
+
+### Projenin tüm isterleri yerine getirilememiştir. Authorization ve Email servisi eksiktir.
 
 
